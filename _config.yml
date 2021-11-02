@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Academic Website of Fangping Lan
+title: Fangping Lan's Homepage
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Fangping Lan
   avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
+  bio: "Make! Break!"
   email: fangpinglan0116@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: #laderast
