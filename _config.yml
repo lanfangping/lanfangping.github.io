@@ -1,3 +1,9 @@
 # theme: jekyll-theme-minimal
 title: Fangping Lan's Homepage
 logo: images/logo.gif
+
+owner: 
+  name: Fangping Lan
+  avater: images/logo.gif
+  bio: "A PhD student at Temple University."
+  email: fangpinglan0116@gmail.com
