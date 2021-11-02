@@ -3,8 +3,10 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a PhD student at Temple University in Computer & Information Sciense department.
+I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
 
-## Current projects:
+## Current Interests and Projects:
 
-- Faure
+- Website Design
+- [GitHub Pages](http://laderast.github.io)
+- Academia
