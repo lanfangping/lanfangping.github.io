@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Fangping Lan's Homepage
+
+A PhD student at Temple University!
 
 You can use the [editor on GitHub](https://github.com/lanfangping/lanfangping.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
