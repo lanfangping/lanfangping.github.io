@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 ## Welcome to Fangping Lan's Homepage
 
 A PhD student at Temple University!
