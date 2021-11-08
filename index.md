@@ -5,8 +5,8 @@ excerpt: "About Me..."
 
 I am currently a PhD student at Temple University in Computer & Information Science department.
 
-## Current Interests and Projects:
+## Current Projects:
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- Network Verification
+- [GitHub Pages](https://github.com/lanfangping)
+
