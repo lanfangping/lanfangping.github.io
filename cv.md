@@ -34,8 +34,8 @@ National scholarship, China government
 
 ### Conferences
 
-`July 25 - July 28, 2022`:
 Design and Implementation of a Strong Representation System for Network Policies, accetped
+`July 25 - July 28, 2022`
 
 `November, 2021`:
 Faure: A Partial Approach to Network Analysis [HotNets 2021](https://conferences.sigcomm.org/hotnets/2021/) [paper](docs/Hotnets2021/faure.pdf)
