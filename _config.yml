@@ -133,7 +133,8 @@ navigation_header:
   url: /search/
 - title: My Github
   url: https://github.com/lanfangping
-
+- title: Publications
+  url: /publications/
 navigation_footer:
 - title: Adopted Alembic Theme
   url: https://darn.es
