@@ -1,7 +1,7 @@
 ---
-title: Fangping Lan's Homepage
+title: About me ...
 feature_text: |
-  ## Hi~
+  ## Fangping Lan's Homepage
   Make! Break!
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "I am currently a PhD student at Temple University in Computer & Information Science department."
