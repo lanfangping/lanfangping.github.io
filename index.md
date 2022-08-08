@@ -13,16 +13,19 @@ I am currently a PhD student at [Temple University](https://www.temple.edu/) in 
 
 ## Education
 
-- PhD student of Computer Science & Information
+- `Temple University - Sep. 2021 - Current` 
   
-  `Temple University - Sep. 2021 - Current`
+  PhD student in Computer Science & Information
 
-- Master of Software Engineering 
-  - `Monmouth University - Sep. 2019 - Jan.2021`
+- `Monmouth University - Sep. 2019 - Jan.2021` 
+  
+  Master degree in Software Engineering 
 
-- Bachelar of Computer Science
+- `Changshu Institute of Technology - Sep. 2015 - June 2019`
+  
+  Bachelar degree in Computer Science
 
-  `Changeshu Institute of Technology - Sep. 2015 - June 2019`
+  
 
 
 <!-- ## Examples
