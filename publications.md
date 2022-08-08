@@ -1,6 +1,6 @@
 ---
 title: Publications
-layout: publications
+layout: categories
 # feature_text: |
 #   A demo of Markdown and HTML includes
 # feature_image: "https://picsum.photos/2560/600?image=873"
@@ -16,7 +16,7 @@ aside: True
   Design and Implementation of a Strong Representation System for Network Policies 
 
   Authors: **Fangping Lan**, Sanchari Biswas, Bin Gui, Jie Wu and Anduo Wang
-  
+
   [**ICCCN 2022**](http://www.icccn.org/),
   [paper](),
   [**slides**](/docs/icccn2022/icccn2022-v2-7.key),
