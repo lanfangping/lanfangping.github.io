@@ -1,6 +1,5 @@
 ---
 title: Publications
-layout: categories
 # feature_text: |
 #   A demo of Markdown and HTML includes
 # feature_image: "https://picsum.photos/2560/600?image=873"
@@ -11,11 +10,7 @@ aside: True
 
 ### Conferences
 
-- `July 25 - July 28 2022`, 
-    
-  Design and Implementation of a Strong Representation System for Network Policies 
-
-  Authors: **Fangping Lan**, Sanchari Biswas, Bin Gui, Jie Wu and Anduo Wang
+- `July 25 - July 28 2022`, Design and Implementation of a Strong Representation System for Network Policies, **Fangping Lan**, Sanchari Biswas, Bin Gui, Jie Wu and Anduo Wang
 
   [**ICCCN 2022**](http://www.icccn.org/),
   [paper](),
