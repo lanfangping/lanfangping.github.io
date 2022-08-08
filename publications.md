@@ -15,7 +15,8 @@ aside: False
 `July 25 - July 28, 2022`
 
 [[ICCCN 2022](http://www.icccn.org/)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}, 
-[[paper](/)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
+[[paper](/)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"},
+[[slides](/docs/icccn2022/icccn2022-v2-7.key)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"},
 
 {% include video.html id="5BwFTQoFETA" title="ICCCN 2022 presentation" %}
 
