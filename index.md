@@ -14,12 +14,14 @@ I am currently a PhD student at [Temple University](https://www.temple.edu/) in 
 ## Education
 
 - PhD student of Computer Science & Information
+  
   `Temple University - Sep. 2021 - Current`
 
 - Master of Software Engineering 
-  `Monmouth University - Sep. 2019 - Jan.2021`
+  - `Monmouth University - Sep. 2019 - Jan.2021`
 
 - Bachelar of Computer Science
+
   `Changeshu Institute of Technology - Sep. 2015 - June 2019`
 
 
