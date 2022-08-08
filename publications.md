@@ -12,14 +12,14 @@ aside: False
 
 - Design and Implementation of a Strong Representation System for Network Policies
 
-`July 25 - July 28 2022`,
-[**ICCCN 2022**](http://www.icccn.org/),
-[paper](/),
-[**slides**](/docs/icccn2022/icccn2022-v2-7.key),
-[**presentation video**](https://www.youtube.com/watch?v=5BwFTQoFETA)
+    `July 25 - July 28 2022`,
+    [**ICCCN 2022**](http://www.icccn.org/),
+    [paper](/),
+    [**slides**](/docs/icccn2022/icccn2022-v2-7.key),
+    [**presentation video**](https://www.youtube.com/watch?v=5BwFTQoFETA)
 
 
-- Faure: A Partial Approach to Network Analysis,
+- Faure: A Partial Approach to Network Analysis
   
   `November 2021`, 
   [**HotNets 2021**](https://conferences.sigcomm.org/hotnets/2021/)
