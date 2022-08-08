@@ -3,7 +3,11 @@
     {% if link[1] != blank %}
       {% assign id = link[0] | downcase %}
       <a href="{{ link[1] }}">
-        {% include icon.html id=id title=id %}
+        {% if id contains "email" %}
+          <p>{% include icon.html id=id title="fangping.lan@temple.edu" %}fangping.lan@temple.edu</p>
+        {% else %}
+          {% include icon.html id=id title=id %}
+        {% endif %}
       </a>  
     {% endif %}
 
