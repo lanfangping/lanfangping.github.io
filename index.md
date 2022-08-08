@@ -5,6 +5,7 @@ feature_text: |
   Make! Break!
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "I am currently a PhD student at Temple University in Computer & Information Science department."
+aside: True
 ---
 
 I am currently a PhD student at [Temple University](https://www.temple.edu/) in Computer & Information Science department.
