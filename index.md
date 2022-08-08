@@ -26,8 +26,33 @@ I am currently a PhD student at [Temple University](https://www.temple.edu/) in 
   
   Bachelar degree in Computer Science
 
-  
+### Working Experience
 
+- `June 2022 - Current`
+  - Title: Summer Research Assistant
+  - Company: Temple University
+
+- `Sep. 2021 - May 2022`
+  - Title: Research Assistant 
+  - Company: Temple University
+  - 
+- `Sep. 2020 - Dec. 2020`
+  - Title: Research Assistant 
+  - Company: Monmouth University
+
+- `Sep. 2019 - May. 2020`
+  - Title: Research & Teaching Assistant 
+  - Company: Monmouth University
+
+###
+
+## Awards
+
+- `2017 Fall - 2018 Spring`, 
+  National scholarship for Encouragement, China government 
+
+- `2016 Fall - 2017 Spring`, 
+  National scholarship, China government 
 
 <!-- ## Examples
 
