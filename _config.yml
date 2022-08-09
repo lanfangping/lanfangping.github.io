@@ -125,8 +125,8 @@ navigation_header:
   url: /
 - title: Publications
   url: /publications/
-- title: My Github
-  url: https://github.com/lanfangping
+- title: Resume
+  url: /docs/resume/FangpingLan-Resume.pdf
 # - title: Elements
 #   url: /elements/
 # - title: Blog
