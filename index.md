@@ -24,7 +24,7 @@ I am currently a PhD student at [Temple University](https://www.temple.edu/) in 
 
 - `Changshu Institute of Technology - Sep. 2015 - June 2019`
   
-  Bachelar degree in Computer Science
+  Bachelor degree in Computer Science
 
 ### Work Experience
 
