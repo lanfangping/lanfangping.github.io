@@ -24,19 +24,19 @@ aside: False
   [**paper**](http://anduowang.github.io/docs/faure.pdf)
 
 
-- `August 2021`, Sarasate: A Strong Representation System for Networking Policies, Bin Gui, **Fangping Lan**, and Anduo Wang
-  
-  [**short paper**](https://anduowang.github.io/docs/sigcomm2021demo.pdf),
-  [**poster**](docs/sigcom2021demo/Poster-%20Sarasate%20A%20Strong%20Representation%20System%20for%20Network%20Policies.pdf),
-  [**video**](https://youtu.be/w9nH2et3zdI)
-
-
 - `June 2021`, Flexible Routing with Policy Exchange, Bin Gui, **Fangping Lan**, and Anduo Wang
 
   [**APNet 2021**](https://conferences.sigcomm.org/events/apnet2021/index.html),
   [**paper**](https://conferences.sigcomm.org/events/apnet2021/papers/apnet2021-2.pdf), 
   [**slides**](docs/apnet2021/apnet21-talk.key)
 
+### Posters
+
+- `August 2021`, Sarasate: A Strong Representation System for Networking Policies, Bin Gui, **Fangping Lan**, and Anduo Wang
+  
+  [**short paper**](https://anduowang.github.io/docs/sigcomm2021demo.pdf),
+  [**poster**](docs/sigcom2021demo/Poster-%20Sarasate%20A%20Strong%20Representation%20System%20for%20Network%20Policies.pdf),
+  [**video**](https://youtu.be/w9nH2et3zdI)
 
 ### Journals
 
