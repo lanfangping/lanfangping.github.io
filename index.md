@@ -15,12 +15,15 @@ I am currently a PhD student at [Temple University](https://www.temple.edu/) in 
 ### Education
 
 - `PhD student in Computer Science & Information` 
+  
   Temple University - Sep. 2021 - Current
 
 - `Master degree in Software Engineering` 
+  
    Monmouth University - Sep. 2019 - Jan.2021
 
 - `Bachelor degree in Computer Science`
+  
   Changshu Institute of Technology - Sep. 2015 - June 2019
   
 ### Work Experience
@@ -34,7 +37,8 @@ I am currently a PhD student at [Temple University](https://www.temple.edu/) in 
   - Company: Monmouth University
   
 ### Teaching Experience
-- `Guest Lecture: Software-defined Network with Ravel`               
+- `Guest Lecture: Software-defined Network with Ravel`    
+             
   Feb 27th, Spring 2023, CIS4319 Computer Networks and Communications, Temple University
 
 
