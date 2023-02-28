@@ -13,8 +13,8 @@ aside: False
 - `July 25 - July 28 2022`, Design and Implementation of a Strong Representation System for Network Policies, **Fangping Lan**, Sanchari Biswas, Bin Gui, Jie Wu and Anduo Wang
 
   [**ICCCN 2022**](http://www.icccn.org/),
-  [paper](),
-  [**slides**](/docs/icccn2022/icccn2022-v2-7.key),
+  [paper](https://ieeexplore.ieee.org/document/9868871),
+  [**slides**](/docs/icccn2022/icccn2022-v2-7.pdf),
   [**presentation video**](https://www.youtube.com/watch?v=5BwFTQoFETA)
 
 
