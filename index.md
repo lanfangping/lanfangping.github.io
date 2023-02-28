@@ -36,7 +36,8 @@ I am currently a PhD student at [Temple University](https://www.temple.edu/) in 
 ### Teaching Experience
 - `Guest Lecture: Software-defined Network with Ravel`    
              
-  Feb 27th, Spring 2023, CIS4319 Computer Networks and Communications, Temple University
+  - Feb 27th, Spring 2023, CIS4319 Computer Networks and Communications, Temple University
+  - [**slides**](/docs/guest_lecture/ravel-based-project.pdf)
 
 
 ### Awards
