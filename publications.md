@@ -34,8 +34,8 @@ aside: False
 
 - `June 29-30 2023`, Indirect Network Troubleshooting with The Chase, Mubashir Anwar, **Fangping Lan**, Anduo Wang and Matthew Caeser
   
-  <!-- [**short paper**](https://anduowang.github.io/docs/sigcomm2021demo.pdf),
-  [**poster**](docs/sigcom2021demo/Poster-%20Sarasate%20A%20Strong%20Representation%20System%20for%20Network%20Policies.pdf), -->
+  [**short paper**](docs/apnet2023/IndirectNetworkTroubleshootingwithTheChase.pdf),
+  [**poster**](docs/apnet2023/poster_APnet23.pdf)
   <!-- [**video**](https://youtu.be/w9nH2et3zdI) -->
 
 - `August 2021`, Sarasate: A Strong Representation System for Networking Policies, Bin Gui, **Fangping Lan**, and Anduo Wang
