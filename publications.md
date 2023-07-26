@@ -35,12 +35,14 @@ aside: False
 ### Posters
 - `September 10-14 2023`, Demo:Structural Network Minimization: A Case of Reflective Networking, Mubashir Anwar, Anduo Wang, **Fangping Lan** and Matthew Caeser
   
+  [**Sigcomm 2023**](https://conferences.sigcomm.org/sigcomm/2023/cf-posters.html),
   [**short paper**](docs/sigcomm2023demo/Sigcomm23_shortpaper.pdf),
   <!-- [**poster**](docs/apnet2023/poster_APnet23.pdf) -->
   <!-- [**video**](https://youtu.be/w9nH2et3zdI) -->
 
 - `June 29-30 2023`, Indirect Network Troubleshooting with The Chase, Mubashir Anwar, **Fangping Lan**, Anduo Wang and Matthew Caeser
   
+  [**APNet 2023**](https://conferences.sigcomm.org/events/apnet2023/index.html),
   [**short paper**](docs/apnet2023/IndirectNetworkTroubleshootingwithTheChase.pdf),
   [**poster**](docs/apnet2023/poster_APnet23.pdf)
   <!-- [**video**](https://youtu.be/w9nH2et3zdI) -->
