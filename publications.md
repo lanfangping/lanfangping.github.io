@@ -17,17 +17,19 @@ aside: False
   [**slides**](/docs/icccn2022/icccn2022-v2-7.pdf),
   [**presentation video**](https://www.youtube.com/watch?v=5BwFTQoFETA)
 
-- `June 2021`, Flexible Routing with Policy Exchange, Bin Gui, **Fangping Lan**, and Anduo Wang
 
-  [**APNet 2021**](https://conferences.sigcomm.org/events/apnet2021/index.html),
-  [**paper**](https://conferences.sigcomm.org/events/apnet2021/papers/apnet2021-2.pdf), 
-  [**slides**](docs/apnet2021/apnet21-talk.key)
 
 ### Workshops
 - `November 2021`, Faure: A Partial Approach to Network Analysis, **Fangping Lan**, Bin Gui and Anduo Wang
    
   [**HotNets 2021**](https://conferences.sigcomm.org/hotnets/2021/),
   [**paper**](http://anduowang.github.io/docs/faure.pdf)
+
+- `June 2021`, Flexible Routing with Policy Exchange, Bin Gui, **Fangping Lan**, and Anduo Wang
+
+  [**APNet 2021**](https://conferences.sigcomm.org/events/apnet2021/index.html),
+  [**paper**](https://conferences.sigcomm.org/events/apnet2021/papers/apnet2021-2.pdf), 
+  [**slides**](docs/apnet2021/apnet21-talk.key)
 
 
 ### Posters
