@@ -6,7 +6,12 @@ title: Publications
 # excerpt: "A demo of Markdown and HTML includes"
 aside: False
 ---
+### Journals
 
+- `26 November 2020`, Dynamic hand gesture recognition based on short-term sampling neural networks, Wenjin Zhang, Jiacun Wang and **Fangping Lan**
+  
+  [**IEEE/CAA JOURNAL OF AUTOMATICA SINICA**](/), 
+  [**paper**](https://ieeexplore.ieee.org/document/9272702)
 
 ### Conferences
 
@@ -54,10 +59,5 @@ aside: False
   [**poster**](docs/sigcom2021demo/Poster-%20Sarasate%20A%20Strong%20Representation%20System%20for%20Network%20Policies.pdf),
   [**video**](https://youtu.be/w9nH2et3zdI)
 
-### Journals
 
-- `26 November 2020`, Dynamic hand gesture recognition based on short-term sampling neural networks, Wenjin Zhang, Jiacun Wang and **Fangping Lan**
-  
-  [**IEEE/CAA JOURNAL OF AUTOMATICA SINICA**](/), 
-  [**paper**](https://ieeexplore.ieee.org/document/9272702)
 
