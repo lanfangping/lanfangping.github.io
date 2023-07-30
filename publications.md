@@ -8,14 +8,14 @@ aside: False
 ---
 ### Journals
 
-- `26 November 2020`, Dynamic hand gesture recognition based on short-term sampling neural networks, [Wenjin Zhang, Jiacun Wang and **Fangping Lan**]
+- `26 November 2020`, [Wenjin Zhang, Jiacun Wang and **Fangping Lan**], Dynamic hand gesture recognition based on short-term sampling neural networks 
   
   - **IEEE/CAA JOURNAL OF AUTOMATICA SINICA**, 
   [**paper**](https://ieeexplore.ieee.org/document/9272702)
 
 ### Conferences
 
-- `July 25 - July 28 2022`, Design and Implementation of a Strong Representation System for Network Policies, [**Fangping Lan**, Sanchari Biswas, Bin Gui, Jie Wu and Anduo Wang]
+- `July 25 - July 28 2022`, [**Fangping Lan**, Sanchari Biswas, Bin Gui, Jie Wu and Anduo Wang], Design and Implementation of a Strong Representation System for Network Policies 
 
   - [**ICCCN 2022**](http://www.icccn.org/),
   [**paper**](https://ieeexplore.ieee.org/document/9868871),
@@ -25,7 +25,7 @@ aside: False
 
 
 ### Workshops
-- `November 2021`, Faure: A Partial Approach to Network Analysis, [**Fangping Lan**, Bin Gui and Anduo Wang]
+- `November 2021`, [**Fangping Lan**, Bin Gui and Anduo Wang], Faure: A Partial Approach to Network Analysis
    
   - [**HotNets 2021**](https://conferences.sigcomm.org/hotnets/2021/),
   [**paper**](http://anduowang.github.io/docs/faure.pdf)
