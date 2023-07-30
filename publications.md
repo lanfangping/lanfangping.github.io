@@ -30,7 +30,7 @@ aside: False
   - [**HotNets 2021**](https://conferences.sigcomm.org/hotnets/2021/),
   [**paper**](http://anduowang.github.io/docs/faure.pdf)
 
-- `June 2021`, Flexible Routing with Policy Exchange, Bin Gui, **Fangping Lan**, and Anduo Wang
+- `June 2021`, [Bin Gui, **Fangping Lan**, and Anduo Wang], Flexible Routing with Policy Exchange
 
   - [**APNet 2021**](https://conferences.sigcomm.org/events/apnet2021/index.html),
   [**paper**](https://conferences.sigcomm.org/events/apnet2021/papers/apnet2021-2.pdf), 
@@ -38,21 +38,21 @@ aside: False
 
 
 ### Posters
-- `September 10-14 2023`, Demo:Structural Network Minimization: A Case of Reflective Networking, Mubashir Anwar, Anduo Wang, **Fangping Lan** and Matthew Caeser
+- `September 10-14 2023`, [Mubashir Anwar, Anduo Wang, **Fangping Lan** and Matthew Caeser], Demo:Structural Network Minimization: A Case of Reflective Networking
   
   - [**Sigcomm 2023**](https://conferences.sigcomm.org/sigcomm/2023/cf-posters.html),
   [**short paper**](docs/sigcomm2023demo/Sigcomm23_shortpaper.pdf),
   <!-- [**poster**](docs/apnet2023/poster_APnet23.pdf) -->
   <!-- [**video**](https://youtu.be/w9nH2et3zdI) -->
 
-- `June 29-30 2023`, Indirect Network Troubleshooting with The Chase, Mubashir Anwar, **Fangping Lan**, Anduo Wang and Matthew Caeser
+- `June 29-30 2023`, [Mubashir Anwar, **Fangping Lan**, Anduo Wang and Matthew Caeser], Indirect Network Troubleshooting with The Chase
   
   - [**APNet 2023**](https://conferences.sigcomm.org/events/apnet2023/index.html),
   [**short paper**](docs/apnet2023/IndirectNetworkTroubleshootingwithTheChase.pdf),
   [**poster**](docs/apnet2023/poster_APnet23.pdf)
   <!-- [**video**](https://youtu.be/w9nH2et3zdI) -->
 
-- `August 2021`, Sarasate: A Strong Representation System for Networking Policies, Bin Gui, **Fangping Lan**, and Anduo Wang
+- `August 2021`, [Bin Gui, **Fangping Lan**, and Anduo Wang], Sarasate: A Strong Representation System for Networking Policies
   
   - [**Sigcomm 2021**](https://conferences.sigcomm.org/sigcomm/2021/cf-posters.html),
   [**short paper**](https://anduowang.github.io/docs/sigcomm2021demo.pdf),
