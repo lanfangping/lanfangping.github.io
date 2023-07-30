@@ -15,13 +15,13 @@ I am currently a PhD student at [Temple University](https://www.temple.edu/) in 
 ### Education
 
 - `PhD student in Computer Science & Information` 
-  - Temple University - Sep. 2021 - Current
+  - [Temple University](https://www.temple.edu/): Sep. 2021 - Current
 
 - `Master degree in Software Engineering` 
-  - Monmouth University - Sep. 2019 - Jan.2021
+  - [Monmouth University](https://www.monmouth.edu/): Sep. 2019 - Jan.2021
 
 - `Bachelor degree in Computer Science`
-  - Changshu Institute of Technology - Sep. 2015 - June 2019
+  - Changshu Institute of Technology: Sep. 2015 - June 2019
   
 ### Work Experience
 
