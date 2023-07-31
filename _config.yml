@@ -147,7 +147,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   LinkedIn: https://www.linkedin.com/in/fangping-lan-608433196/
   GitHub: https://github.com/lanfangping
   Email: /
-  # link: https://darn.es
+  link: https://scholar.google.com/citations?user=K00gXYUAAAAJ
   # RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
