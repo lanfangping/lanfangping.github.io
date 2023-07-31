@@ -145,9 +145,10 @@ navigation_footer:
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   # Twitter: https://twitter.com/DavidDarnes
   LinkedIn: https://www.linkedin.com/in/fangping-lan-608433196/
-  GitHub: https://github.com/lanfangping
-  Email: /
+  GitHub: https://github.com/lanfangping,
   link: https://scholar.google.com/citations?user=K00gXYUAAAAJ
+  Email: /
+  
   # RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
