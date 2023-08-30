@@ -11,7 +11,7 @@ aside: False
 ### 2023
 - `Fall 2023`, CIS 1057 Computer Programming in C, 
   - Teaching Assistant, Temple Universiry 
-  - **resources**: [Google Drive](https://tuprd-my.sharepoint.com/:f:/g/personal/tuo96170_temple_edu/EgfEuWurj65AmG28SRWTOvoBEW9LwhSGYiV_ZjYnScoK1A?e=ONjpmr)
+  - **resources**:[OneDrive](https://tuprd-my.sharepoint.com/:f:/g/personal/tuo96170_temple_edu/EgfEuWurj65AmG28SRWTOvoBEW9LwhSGYiV_ZjYnScoK1A?e=ONjpmr) (getting acccess with your Temple account)
   
 - `Fall 2023`, CIS 1966 Honors Math Concepts in CS I
   - Teaching Assistant, Temple Universiry 
