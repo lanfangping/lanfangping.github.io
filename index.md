@@ -25,8 +25,8 @@ I am currently a PhD student at [Temple University](https://www.temple.edu/) in 
   
 ### Work Experience
 
-- `Title: Research Assistant`
-  - Sep. 2021 - Current
+- `Title: Research & Teaching Assistant`
+  - Sep. 2021 - Now
   - Company: Temple University
   
 - `Title: Research & Teaching Assistant`
@@ -34,7 +34,10 @@ I am currently a PhD student at [Temple University](https://www.temple.edu/) in 
   - Company: Monmouth University
   
 ### Teaching Experience
-- `Guest Lecture: Software-defined Network with Ravel, Feb 27th, Spring 2023`    
+- `CIS 1057 Computer Programming in C, Fall 2023`
+- `CIS 1966 Honors Math Concepts in CS I, Fall 2023`  
+- `Guest Lecture: Software-defined Network with Ravel, Feb 27th, Spring 2023`  
+
 
 
 ### Awards
