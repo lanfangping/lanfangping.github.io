@@ -37,7 +37,7 @@ aside: False
   [**slides**](docs/apnet2021/apnet21-talk.key)
 
 
-### Posters
+### Posters/Demos/Abstracts
 - `September 10-14 2023`, [Mubashir Anwar, Anduo Wang, **Fangping Lan** and Matthew Caeser], Demo:Structural Network Minimization: A Case of Reflective Networking
   
   - [**Sigcomm 2023**](https://conferences.sigcomm.org/sigcomm/2023/cf-posters.html),
