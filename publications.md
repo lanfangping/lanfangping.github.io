@@ -25,6 +25,10 @@ aside: False
 
 
 ### Workshops
+- `October 2023`, [Anduo Wang, Mubashir Anwar, **Fangping Lan** and Matthew Caeser], Structural Semantics Management: an Application of the Chase in Networking
+  - [**MASCOTS 2023**](https://mascots.iitis.pl/),
+  <!-- [**paper**]() -->
+
 - `November 2021`, [**Fangping Lan**, Bin Gui and Anduo Wang], Faure: A Partial Approach to Network Analysis
    
   - [**HotNets 2021**](https://conferences.sigcomm.org/hotnets/2021/),
@@ -41,7 +45,7 @@ aside: False
 - `September 10-14 2023`, [Mubashir Anwar, Anduo Wang, **Fangping Lan** and Matthew Caeser], Demo:Structural Network Minimization: A Case of Reflective Networking
   
   - [**Sigcomm 2023**](https://conferences.sigcomm.org/sigcomm/2023/cf-posters.html),
-  [**short paper**](docs/sigcomm2023demo/Sigcomm23_shortpaper.pdf),
+  [**short paper**](https://dl.acm.org/doi/10.1145/3603269.3610847),
   <!-- [**poster**](docs/apnet2023/poster_APnet23.pdf) -->
   <!-- [**video**](https://youtu.be/w9nH2et3zdI) -->
 
