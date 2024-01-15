@@ -7,6 +7,13 @@ title: Teaching
 aside: False
 ---
 
+### 2024
+- `Spring 2024`, CIS 2166 Math Concepts in Computing II
+  - Teaching Assistant, Temple University
+
+- `Spring 2024`, CIS 3211 Automata, Computability & Lang
+  - Teaching Assitant, Temple University
+
 
 ### 2023
 - `Fall 2023`, CIS 1057 Computer Programming in C 
@@ -15,6 +22,7 @@ aside: False
   
 - `Fall 2023`, CIS 1966 Honors Math Concepts in CS I
   - Teaching Assistant, Temple Universiry 
+  - **slides for final review**: [OneDrive](https://tuprd-my.sharepoint.com/:p:/g/personal/tuo96170_temple_edu/ETYDQsMN1fxPrWzbSd_gihUBjSpTt8ln8jsY1843fyH2hQ?e=13NCaP)(getting access with your Temple account)
 
 - `Feb 27th, 2023`, Guest lecture: Software-defined Network with Ravel
   - **Course**: CIS4319 Computer Networks and Communications, Temple University
