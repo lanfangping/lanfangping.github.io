@@ -11,7 +11,7 @@ aside: False
 - `Spring 2024`, CIS 2166 Math Concepts in Computing II
   - Teaching Assistant, Temple University
 
-- `Spring 2024`, CIS 3211 Automata, Computability & Lang
+- `Spring 2024`, CIS 3211 Automata, Computability & Languages
   - Teaching Assitant, Temple University
 
 
