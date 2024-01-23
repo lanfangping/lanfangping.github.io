@@ -10,6 +10,7 @@ aside: False
 ### 2024
 - `Spring 2024`, CIS 2166 Math Concepts in Computing II
   - Teaching Assistant, Temple University
+  - **resources**: [OneDrive](https://tuprd-my.sharepoint.com/:f:/g/personal/tuo96170_temple_edu/EjInFGQ-vchEnQpJmEOOqoUBZ4284jkLfGBhEockzHBdmw?e=BNKURG) (getting access with your Temple account)
 
 - `Spring 2024`, CIS 3211 Automata, Computability & Languages
   - Teaching Assitant, Temple University
