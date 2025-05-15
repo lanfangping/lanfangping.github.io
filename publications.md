@@ -15,13 +15,16 @@ aside: False
 
 ### Conferences
 
+- `July 27 - August 1, 2025`, [**Fangping Lan**, Abdullah Aljebreen and Eduard C. Dragut], UniT: One Document, Many Revisions, Too Many Edit Intention Taxonomies 
+  - [**ACL 2025**](https://2025.aclweb.org/)
+  - [**paper**]()
+
 - `July 25 - July 28 2022`, [**Fangping Lan**, Sanchari Biswas, Bin Gui, Jie Wu and Anduo Wang], Design and Implementation of a Strong Representation System for Network Policies 
 
   - [**ICCCN 2022**](http://www.icccn.org/),
   [**paper**](https://ieeexplore.ieee.org/document/9868871),
   [**slides**](/docs/icccn2022/icccn2022-v2-7.pdf),
   [**presentation video**](https://www.youtube.com/watch?v=5BwFTQoFETA)
-
 
 
 ### Workshops
