@@ -129,8 +129,8 @@ navigation_header:
   url: /docs/resume/FangpingLan-Resume.pdf
 - title: Teaching
   url: /teaching/
-# - title: Elements
-#   url: /elements/
+- title: Elements
+  url: /elements/
 # - title: Blog
 #   url: /blog/
 # - title: Categories
