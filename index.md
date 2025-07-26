@@ -24,14 +24,14 @@ I am currently a PhD student at [Temple University](https://www.temple.edu/) in 
   - Changshu Institute of Technology: Sep. 2015 - June 2019
   
 ### Work Experience
+- `Title: Applied Scientist Intern` at Amazon Web Services, Arlington, VA (June 2025 – now)                                                          	          		
+  - **Project Description**: This internship project addresses critical challenges faced by incident responders investigating potential security incidents. Specifically, it targets three key pain points: manual and repetitive search processes across multiple log sources, inefficient search strategies when confronting complex and novel security patterns, and the overwhelming challenge of analyzing large data volumes during time-sensitive investigations. This project will developing an agentic search system that can (1) automate repetitive search tasks across multiple log sources; (2) process natural language queries from security analysts; (3) provide consistent, evidence-based findings.
+  - **Skills**: LLM, LLM agent, Bedrock API, Strands SDK, DuckDB, Python
 
-- `Title: Research & Teaching Assistant`
-  - Sep. 2021 - Now
-  - Company: Temple University
+
+- `Title: Research & Teaching Assistant` at Temple University (Sept. 2021 - Now)
   
-- `Title: Research & Teaching Assistant`
-  - Sep. 2019 - Dec. 2020
-  - Company: Monmouth University
+- `Title: Research & Teaching Assistant` at Monmouth University (Sep. 2019 - Dec. 2020)
   
 ### Teaching Experience
 - `CIS 2166 Math Concepts in Computing II, Spring 2024`
@@ -39,8 +39,6 @@ I am currently a PhD student at [Temple University](https://www.temple.edu/) in 
 - `CIS 1057 Computer Programming in C, Fall 2023`
 - `CIS 1966 Honors Math Concepts in CS I, Fall 2023`  
 - `Guest Lecture: Software-defined Network with Ravel, Feb 27th, Spring 2023`  
-
-
 
 ### Awards
 

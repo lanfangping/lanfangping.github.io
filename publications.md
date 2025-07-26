@@ -9,7 +9,7 @@ aside: False
 
 - `July 27 - August 1, 2025`, [**Fangping Lan**, Abdullah Aljebreen and Eduard C. Dragut], UniT: One Document, Many Revisions, Too Many Edit Intention Taxonomies 
   - [**ACL 2025**](https://2025.aclweb.org/),
-  [**paper**](),
+  [**paper**](https://aclanthology.org/2025.findings-acl.1180/),
   [**project**](https://sites.google.com/view/dmlab-unit/)
 
 - `October 2023`, [Anduo Wang, Mubashir Anwar, **Fangping Lan** and Matthew Caeser], Structural Semantics Management: an Application of the Chase in Networking
