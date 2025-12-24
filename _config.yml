@@ -133,8 +133,8 @@ navigation_header:
   url: /teaching/
 - title: Elements
   url: /elements/
-# - title: Blog
-#   url: /blog/
+- title: Blog
+  url: /blog/
 # - title: Categories
 #   url: /categories/
 # - title: Search
