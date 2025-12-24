@@ -15,7 +15,7 @@ I am currently a PhD student at [Temple University](https://www.temple.edu/) in 
 ### Education
 
 - `PhD student in Computer Science & Information` 
-  - [Temple University](https://www.temple.edu/): Sep. 2021 - Current
+  - [Temple University](https://www.temple.edu/): Sep. 2021 - Now
 
 - `Master degree in Software Engineering` 
   - [Monmouth University](https://www.monmouth.edu/): Sep. 2019 - Jan.2021
