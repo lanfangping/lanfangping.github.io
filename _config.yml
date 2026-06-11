@@ -131,12 +131,12 @@ navigation_header:
   url: /working/
 - title: Teaching
   url: /teaching/
-- title: Elements
-  url: /elements/
 - title: Projects
   url: https://sites.google.com/view/fangpinglan-projects
-- title: Blog
-  url: /blog/
+# - title: Elements
+#   url: /elements/
+# - title: Blog
+#   url: /blog/
 # - title: Categories
 #   url: /categories/
 # - title: Search
