@@ -6,11 +6,20 @@ title: Publications
 # excerpt: "A demo of Markdown and HTML includes"
 aside: False
 ---
+- `July 2 - July 7, 2026`, [**Fangping Lan**, Qi Zhang and Eduard C. Dragut], Making Revisions Understandable: A Survey of Edit Intentions, Methods, and Applications 
+  - [**Findings of ACL 2026**](https://2026.aclweb.org/),
+  [**arXiv**](https://www.arxiv.org/abs/2601.17601),
+  [**project**](https://sites.google.com/view/dmlab-editintention/home)
+  [**Github**](https://github.com/TUDMLab/MakeRevisionsUnderstandable)
+
+- - `July 2 - July 7, 2026`, [Qi Zhang, **Fangping Lan**, Cornelia Caragea, Longin Jan Latecki and Eduard C. Dragut], Scaling Performance and Low-Resource Annotation with Many-Shot In-Context Learning for Named Entity Recognition 
+  - [**Findings of ACL 2026**](https://2026.aclweb.org/),
+  [**Github**](https://github.com/TUDMLab/MakeRevisionsUnderstandable)
 
 - `May 26 - May 29, 2026`, [**Fangping Lan**, Abdullah Aljebreen and Eduard C. Dragut], Why They Link: An Intent Taxonomy for Including Hyperlinks in Social Posts 
   - [**WebSci 2026**](https://websci26.org/),
   [**arXiv**](https://www.arxiv.org/abs/2601.17601),
-  [**project**](https://sites.google.com/view/dmlab-whytheylink/)
+  [**project**](https://sites.google.com/view/dmlab-whytheylink/) 
 
 - `July 27 - August 1, 2025`, [**Fangping Lan**, Abdullah Aljebreen and Eduard C. Dragut], UniT: One Document, Many Revisions, Too Many Edit Intention Taxonomies 
   - [**ACL 2025**](https://2025.aclweb.org/),
