@@ -6,6 +6,12 @@ title: Publications
 # excerpt: "A demo of Markdown and HTML includes"
 aside: False
 ---
+- `2027`, [**Fangping Lan**, Qi Zhang and Eduard C. Dragut], CATune: Structural Constraint-Aware Bayesian Optimization for DBMS Configuration Tuning 
+  - [**PVLDB Volume 19**](https://vldb.org/2027/),
+  <!-- [**project**](https://sites.google.com/view/dmlab-editintention/home) -->
+  [**Github**](https://github.com/lanfangping/CATune)
+  [**Demo Video**](https://youtu.be/iG0qZ4XV0vQ)
+
 - `July 2 - July 7, 2026`, [**Fangping Lan**, Qi Zhang and Eduard C. Dragut], Making Revisions Understandable: A Survey of Edit Intentions, Methods, and Applications 
   - [**Findings of ACL 2026**](https://2026.aclweb.org/),
   [**arXiv**](https://www.arxiv.org/abs/2601.17601),

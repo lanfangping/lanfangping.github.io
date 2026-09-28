@@ -4,18 +4,18 @@ feature_text: |
   ## Fangping Lan's Homepage
   Make! Break!
 feature_image: "/assets/homepage.jpeg"
-excerpt: "I am currently a PhD candidate at Temple University in Computer & Information Science department."
+excerpt: "I completed my PhD at Temple University in Computer & Information Science department."
 aside: True
 ---
 
-I am currently a PhD candidate at [Temple University](https://www.temple.edu/) in Computer & Information Science department, under Prof. [Eduard Dragut](https://cis.temple.edu/~edragut/)'s supervision. My current research interests include Natural Language Processing (NLP), Large Language Models (LLMs), Database Tuning, Prompt Engineering, Machine Learning (ML) . 
+I completed my PhD at [Temple University](https://www.temple.edu/) in Computer & Information Science department, under Prof. [Eduard Dragut](https://cis.temple.edu/~edragut/)'s supervision. My current research interests include Natural Language Processing (NLP), Large Language Models (LLMs), Database Tuning, Prompt Engineering, Machine Learning (ML) . 
 
 <!-- {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} -->
 
 ### Education
 
 - `PhD student in Computer Science & Information` 
-  - [Temple University](https://www.temple.edu/): Sep. 2021 - Now
+  - [Temple University](https://www.temple.edu/): Sep. 2021 - Aug. 2026
 
 - `Master degree in Software Engineering` 
   - [Monmouth University](https://www.monmouth.edu/): Sep. 2019 - Jan.2021
